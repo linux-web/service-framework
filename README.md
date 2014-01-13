@@ -6,7 +6,7 @@
 ###service-framework 适合你吗？
 
 service-framework 定位在 **移动互联网后端** 领域。
-所以ServcieFramework非常强调开发的高效性，其开发效率可以比肩Rails(不相信？可以体验一下哦)。
+所以service-framework非常强调开发的高效性，其开发效率可以比肩Rails(不相信？可以体验一下哦)。
 
 1. 拥有Java界最简单，非常高效，且真正的富Model层
 2. Controller层含有便利的函数库，简洁高效的验证器，过滤器
@@ -17,7 +17,7 @@ service-framework 定位在 **移动互联网后端** 领域。
 如果你面对的是一个遗留项目或者遗留的数据库，那么service-framework不适合你。我们倾向于在一个全新的项目中使用它。
 相信你会为Java也能做到如此的简洁而惊讶，如此高效的开发而窃喜。
 
-现在让我们了解下 service-framework 吧。
+现在让我们了解下 service-framework吧。
 
 
 
@@ -26,7 +26,7 @@ service-framework 定位在 **移动互联网后端** 领域。
 在终端下赋值黏贴运行该命令:
 
 ```shell
-git clone https://github.com/service_framework/service_framework.git service_framework
+git clone https://github.com/wgybzbrobot/service-framework.git service-framework
 ```
 此时你就获得一个开箱即用的项目。所有的目录和结构都是规范化的。
 
